@@ -1,0 +1,440 @@
+Uri: http://fonts.gstatic.com/s/opensans/v10/DXI1ORHCpsQm3Vp6mXoaTeXREeHhJi4GEUJI9ob_ak4.woff2
+File Name: C:\Downloaded Web Sites\jaqston.com\s\opensans\v10\DXI1ORHCpsQm3Vp6mXoaTeXREeHhJi4GEUJI9ob_ak4.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v10/DXI1ORHCpsQm3Vp6mXoaTSUUniRZcd_wq8DYmIfsw2A.woff2
+File Name: C:\Downloaded Web Sites\jaqston.com\s\opensans\v10\DXI1ORHCpsQm3Vp6mXoaTSUUniRZcd_wq8DYmIfsw2A.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v10/k3k702ZOKiLJc3WVjuplzCUUniRZcd_wq8DYmIfsw2A.woff2
+File Name: C:\Downloaded Web Sites\jaqston.com\s\opensans\v10\k3k702ZOKiLJc3WVjuplzCUUniRZcd_wq8DYmIfsw2A.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v10/k3k702ZOKiLJc3WVjuplzOXREeHhJi4GEUJI9ob_ak4.woff2
+File Name: C:\Downloaded Web Sites\jaqston.com\s\opensans\v10\k3k702ZOKiLJc3WVjuplzOXREeHhJi4GEUJI9ob_ak4.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v10/K88pR3goAWT7BTt32Z01m1tXRa8TVwTICgirnJhmVJw.woff2
+File Name: C:\Downloaded Web Sites\jaqston.com\s\opensans\v10\K88pR3goAWT7BTt32Z01m1tXRa8TVwTICgirnJhmVJw.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v10/MTP_ySUJH_bn48VBG8sNSiUUniRZcd_wq8DYmIfsw2A.woff2
+File Name: C:\Downloaded Web Sites\jaqston.com\s\opensans\v10\MTP_ySUJH_bn48VBG8sNSiUUniRZcd_wq8DYmIfsw2A.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v10/MTP_ySUJH_bn48VBG8sNSuXREeHhJi4GEUJI9ob_ak4.woff2
+File Name: C:\Downloaded Web Sites\jaqston.com\s\opensans\v10\MTP_ySUJH_bn48VBG8sNSuXREeHhJi4GEUJI9ob_ak4.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v10/PRmiXeptR36kaC0GEAetxjOd8CtKzJT8jlTvLZi6o3c.woff2
+File Name: C:\Downloaded Web Sites\jaqston.com\s\opensans\v10\PRmiXeptR36kaC0GEAetxjOd8CtKzJT8jlTvLZi6o3c.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v10/PRmiXeptR36kaC0GEAetxn1Xmpo4ASt4tV2E8fbn9tc.woff2
+File Name: C:\Downloaded Web Sites\jaqston.com\s\opensans\v10\PRmiXeptR36kaC0GEAetxn1Xmpo4ASt4tV2E8fbn9tc.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v10/PRmiXeptR36kaC0GEAetxnJcj75aoY2FkN1K7fN5pSM.woff2
+File Name: C:\Downloaded Web Sites\jaqston.com\s\opensans\v10\PRmiXeptR36kaC0GEAetxnJcj75aoY2FkN1K7fN5pSM.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v10/PRmiXeptR36kaC0GEAetxqs1twL42OQU-XDphSlMXYM.woff2
+File Name: C:\Downloaded Web Sites\jaqston.com\s\opensans\v10\PRmiXeptR36kaC0GEAetxqs1twL42OQU-XDphSlMXYM.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v10/PRmiXeptR36kaC0GEAetxrLZkzWHE0Rai0z0KZwCYHE.woff2
+File Name: C:\Downloaded Web Sites\jaqston.com\s\opensans\v10\PRmiXeptR36kaC0GEAetxrLZkzWHE0Rai0z0KZwCYHE.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v10/PRmiXeptR36kaC0GEAetxtjCGQoND4mjlm2rs2WpxZA.woff2
+File Name: C:\Downloaded Web Sites\jaqston.com\s\opensans\v10\PRmiXeptR36kaC0GEAetxtjCGQoND4mjlm2rs2WpxZA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v10/RjgO7rYTmqiVp7vzi-Q5UVtXRa8TVwTICgirnJhmVJw.woff2
+File Name: C:\Downloaded Web Sites\jaqston.com\s\opensans\v10\RjgO7rYTmqiVp7vzi-Q5UVtXRa8TVwTICgirnJhmVJw.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v10/xjAJXh38I15wypJXxuGMBhLwxQbNcFnuWuPk3YnjToI.woff2
+File Name: C:\Downloaded Web Sites\jaqston.com\s\opensans\v10\xjAJXh38I15wypJXxuGMBhLwxQbNcFnuWuPk3YnjToI.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v10/xjAJXh38I15wypJXxuGMBrWJ8El2VFcUWHOh_Oq6BA8.woff2
+File Name: C:\Downloaded Web Sites\jaqston.com\s\opensans\v10\xjAJXh38I15wypJXxuGMBrWJ8El2VFcUWHOh_Oq6BA8.woff2
+Content Type: font/woff2
+
+Uri: https://jaqston.com/
+File Name: C:\Downloaded Web Sites\jaqston.com\index.htm
+Content Type: text/html
+
+Uri: https://jaqston.com/bitrix/cache/css/s1/jaqston/kernel_main/kernel_main_v1.css?16801853563040
+File Name: C:\Downloaded Web Sites\jaqston.com\bitrix\cache\css\s1\jaqston\kernel_main\kernel_main_v1.css
+Content Type: text/css
+
+Uri: https://jaqston.com/bitrix/cache/css/s1/jaqston/page_59a4977469c21ccbd51a2857417a0116/page_59a4977469c21ccbd51a2857417a0116_v1.css?1680185419586
+File Name: C:\Downloaded Web Sites\jaqston.com\bitrix\cache\css\s1\jaqston\page_59a4977469c21ccbd51a2857417a0116\page_59a4977469c21ccbd51a2857417a0116_v1.css
+Content Type: text/css
+
+Uri: https://jaqston.com/bitrix/cache/css/s1/jaqston/page_910f97935d2262a25a94aaf93085cf54/page_910f97935d2262a25a94aaf93085cf54_v1.css?1680185356870
+File Name: C:\Downloaded Web Sites\jaqston.com\bitrix\cache\css\s1\jaqston\page_910f97935d2262a25a94aaf93085cf54\page_910f97935d2262a25a94aaf93085cf54_v1.css
+Content Type: text/css
+
+Uri: https://jaqston.com/bitrix/cache/css/s1/jaqston/page_dc5a4e701510ed1fa9e106c6835f66c3/page_dc5a4e701510ed1fa9e106c6835f66c3_v1.css?1680185413586
+File Name: C:\Downloaded Web Sites\jaqston.com\bitrix\cache\css\s1\jaqston\page_dc5a4e701510ed1fa9e106c6835f66c3\page_dc5a4e701510ed1fa9e106c6835f66c3_v1.css
+Content Type: text/css
+
+Uri: https://jaqston.com/bitrix/cache/css/s1/jaqston/template_46d54dd4563b25b0deb85121ced22a4b/template_46d54dd4563b25b0deb85121ced22a4b_v1.css?168018525822066
+File Name: C:\Downloaded Web Sites\jaqston.com\bitrix\cache\css\s1\jaqston\template_46d54dd4563b25b0deb85121ced22a4b\template_46d54dd4563b25b0deb85121ced22a4b_v1.css
+Content Type: text/css
+
+Uri: https://jaqston.com/bitrix/cache/js/s1/jaqston/kernel_main/kernel_main_v1.js?1711015981165091
+File Name: C:\Downloaded Web Sites\jaqston.com\bitrix\cache\js\s1\jaqston\kernel_main\kernel_main_v1.js
+Content Type: application/javascript
+
+Uri: https://jaqston.com/bitrix/cache/js/s1/jaqston/kernel_main_polyfill_promise/kernel_main_polyfill_promise_v1.js?16801854022506
+File Name: C:\Downloaded Web Sites\jaqston.com\bitrix\cache\js\s1\jaqston\kernel_main_polyfill_promise\kernel_main_polyfill_promise_v1.js
+Content Type: application/javascript
+
+Uri: https://jaqston.com/bitrix/cache/js/s1/jaqston/page_b606eb78c7036dcbe96bf878782f422f/page_b606eb78c7036dcbe96bf878782f422f_v1.js?16801854021897
+File Name: C:\Downloaded Web Sites\jaqston.com\bitrix\cache\js\s1\jaqston\page_b606eb78c7036dcbe96bf878782f422f\page_b606eb78c7036dcbe96bf878782f422f_v1.js
+Content Type: application/javascript
+
+Uri: https://jaqston.com/bitrix/cache/js/s1/jaqston/template_4cce09678147ba31c46e43e678cc003a/template_4cce09678147ba31c46e43e678cc003a_v1.js?1680185258797
+File Name: C:\Downloaded Web Sites\jaqston.com\bitrix\cache\js\s1\jaqston\template_4cce09678147ba31c46e43e678cc003a\template_4cce09678147ba31c46e43e678cc003a_v1.js
+Content Type: application/javascript
+
+Uri: https://jaqston.com/bitrix/js/main/core/images/panel/top-panel-sprite-2.png
+File Name: C:\Downloaded Web Sites\jaqston.com\bitrix\js\main\core\images\panel\top-panel-sprite-2.png
+Content Type: image/png
+
+Uri: https://jaqston.com/bitrix/js/main/loadext/extension.min.js?15863357881304
+File Name: C:\Downloaded Web Sites\jaqston.com\bitrix\js\main\loadext\extension.min.js
+Content Type: application/javascript
+
+Uri: https://jaqston.com/bitrix/js/main/loadext/loadext.min.js?1586335788810
+File Name: C:\Downloaded Web Sites\jaqston.com\bitrix\js\main\loadext\loadext.min.js
+Content Type: application/javascript
+
+Uri: https://jaqston.com/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\jaqston.com\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://jaqston.com/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\jaqston.com\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://jaqston.com/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\jaqston.com\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://jaqston.com/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\jaqston.com\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://jaqston.com/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\jaqston.com\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://jaqston.com/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\jaqston.com\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://jaqston.com/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\jaqston.com\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://jaqston.com/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\jaqston.com\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://jaqston.com/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\jaqston.com\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://jaqston.com/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\jaqston.com\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://jaqston.com/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\jaqston.com\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://jaqston.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\jaqston.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://jaqston.com/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\jaqston.com\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://jaqston.com/company/
+File Name: C:\Downloaded Web Sites\jaqston.com\company\index.htm
+Content Type: text/html
+
+Uri: https://jaqston.com/company/about/
+File Name: C:\Downloaded Web Sites\jaqston.com\company\about\index.htm
+Content Type: text/html
+
+Uri: https://jaqston.com/company/partners/
+File Name: C:\Downloaded Web Sites\jaqston.com\company\partners\index.htm
+Content Type: text/html
+
+Uri: https://jaqston.com/company/purposes/
+File Name: C:\Downloaded Web Sites\jaqston.com\company\purposes\index.htm
+Content Type: text/html
+
+Uri: https://jaqston.com/contacts/
+File Name: C:\Downloaded Web Sites\jaqston.com\contacts\index.htm
+Content Type: text/html
+
+Uri: https://jaqston.com/css/bootstrap-theme.min.css
+File Name: C:\Downloaded Web Sites\jaqston.com\css\bootstrap-theme.min.css
+Content Type: text/css
+
+Uri: https://jaqston.com/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\jaqston.com\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://jaqston.com/css/fonts.css
+File Name: C:\Downloaded Web Sites\jaqston.com\css\fonts.css
+Content Type: text/css
+
+Uri: https://jaqston.com/delivery/
+File Name: C:\Downloaded Web Sites\jaqston.com\delivery\index.htm
+Content Type: text/html
+
+Uri: https://jaqston.com/fonts/fontawesome-webfont.woff?v=3.0.1
+File Name: C:\Downloaded Web Sites\jaqston.com\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://jaqston.com/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\jaqston.com\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jaqston.com/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Downloaded Web Sites\jaqston.com\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jaqston.com/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Downloaded Web Sites\jaqston.com\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://jaqston.com/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\jaqston.com\fonts\glyphicons-halflings-regular.ttf
+Content Type: application/force-download
+
+Uri: https://jaqston.com/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\jaqston.com\fonts\glyphicons-halflings-regular.woff
+Content Type: application/font-woff
+
+Uri: https://jaqston.com/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Downloaded Web Sites\jaqston.com\fonts\glyphicons-halflings-regular.woff2
+Content Type: application/force-download
+
+Uri: https://jaqston.com/images/bg-main-2.jpg
+File Name: C:\Downloaded Web Sites\jaqston.com\images\bg-main-2.jpg
+Content Type: image/jpeg
+
+Uri: https://jaqston.com/images/bg-main.jpg
+File Name: C:\Downloaded Web Sites\jaqston.com\images\bg-main.jpg
+Content Type: image/jpeg
+
+Uri: https://jaqston.com/images/border-2.png
+File Name: C:\Downloaded Web Sites\jaqston.com\images\border-2.png
+Content Type: image/png
+
+Uri: https://jaqston.com/images/border.png
+File Name: C:\Downloaded Web Sites\jaqston.com\images\border.png
+Content Type: image/png
+
+Uri: https://jaqston.com/images/cargo/auto.png
+File Name: C:\Downloaded Web Sites\jaqston.com\images\cargo\auto.png
+Content Type: image/png
+
+Uri: https://jaqston.com/images/cargo/maps.png
+File Name: C:\Downloaded Web Sites\jaqston.com\images\cargo\maps.png
+Content Type: image/png
+
+Uri: https://jaqston.com/images/cargo/seaship.png
+File Name: C:\Downloaded Web Sites\jaqston.com\images\cargo\seaship.png
+Content Type: image/png
+
+Uri: https://jaqston.com/images/cargo/train.png
+File Name: C:\Downloaded Web Sites\jaqston.com\images\cargo\train.png
+Content Type: image/png
+
+Uri: https://jaqston.com/images/footer-bg.jpg
+File Name: C:\Downloaded Web Sites\jaqston.com\images\footer-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://jaqston.com/images/jaqston_logo.png
+File Name: C:\Downloaded Web Sites\jaqston.com\images\jaqston_logo.png
+Content Type: image/png
+
+Uri: https://jaqston.com/images/main_sprite.png
+File Name: C:\Downloaded Web Sites\jaqston.com\images\main_sprite.png
+Content Type: image/png
+
+Uri: https://jaqston.com/images/menu-border.png
+File Name: C:\Downloaded Web Sites\jaqston.com\images\menu-border.png
+Content Type: image/png
+
+Uri: https://jaqston.com/images/phone-forward.png
+File Name: C:\Downloaded Web Sites\jaqston.com\images\phone-forward.png
+Content Type: image/png
+
+Uri: https://jaqston.com/images/search_top.png
+File Name: C:\Downloaded Web Sites\jaqston.com\images\search_top.png
+Content Type: image/png
+
+Uri: https://jaqston.com/images/slide1.jpg
+File Name: C:\Downloaded Web Sites\jaqston.com\images\slide1.jpg
+Content Type: image/jpeg
+
+Uri: https://jaqston.com/images/top11.jpg
+File Name: C:\Downloaded Web Sites\jaqston.com\images\top11.jpg
+Content Type: image/jpeg
+
+Uri: https://jaqston.com/images/top13.jpg
+File Name: C:\Downloaded Web Sites\jaqston.com\images\top13.jpg
+Content Type: image/jpeg
+
+Uri: https://jaqston.com/images/top21.jpg
+File Name: C:\Downloaded Web Sites\jaqston.com\images\top21.jpg
+Content Type: image/jpeg
+
+Uri: https://jaqston.com/images/top22.jpg
+File Name: C:\Downloaded Web Sites\jaqston.com\images\top22.jpg
+Content Type: image/jpeg
+
+Uri: https://jaqston.com/images/top23.jpg
+File Name: C:\Downloaded Web Sites\jaqston.com\images\top23.jpg
+Content Type: image/jpeg
+
+Uri: https://jaqston.com/index.php?id_product=2&controller=product
+File Name: C:\Downloaded Web Sites\jaqston.com\index.php.html
+Content Type: text/html
+
+Uri: https://jaqston.com/index.php?id_product=3&controller=product
+File Name: C:\Downloaded Web Sites\jaqston.com\index.php-1.html
+Content Type: text/html
+
+Uri: https://jaqston.com/index.php?id_product=4&controller=product
+File Name: C:\Downloaded Web Sites\jaqston.com\index.php-2.html
+Content Type: text/html
+
+Uri: https://jaqston.com/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\jaqston.com\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://jaqston.com/js/jaqston.utils.js
+File Name: C:\Downloaded Web Sites\jaqston.com\js\jaqston.utils.js
+Content Type: application/javascript
+
+Uri: https://jaqston.com/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\jaqston.com\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://jaqston.com/js/jquery.touchSwipe.min.js
+File Name: C:\Downloaded Web Sites\jaqston.com\js\jquery.touchSwipe.min.js
+Content Type: application/javascript
+
+Uri: https://jaqston.com/js/jquery.uniform.js
+File Name: C:\Downloaded Web Sites\jaqston.com\js\jquery.uniform.js
+Content Type: application/javascript
+
+Uri: https://jaqston.com/local/templates/jaqston/components/bitrix/menu/top/images/arrow.gif
+File Name: C:\Downloaded Web Sites\jaqston.com\local\templates\jaqston\components\bitrix\menu\top\images\arrow.gif
+Content Type: image/gif
+
+Uri: https://jaqston.com/local/templates/jaqston/components/bitrix/menu/top/images/header_menu_bg.gif
+File Name: C:\Downloaded Web Sites\jaqston.com\local\templates\jaqston\components\bitrix\menu\top\images\header_menu_bg.gif
+Content Type: image/gif
+
+Uri: https://jaqston.com/local/templates/jaqston/components/bitrix/menu/top/images/lock.gif
+File Name: C:\Downloaded Web Sites\jaqston.com\local\templates\jaqston\components\bitrix\menu\top\images\lock.gif
+Content Type: image/gif
+
+Uri: https://jaqston.com/prices/
+File Name: C:\Downloaded Web Sites\jaqston.com\prices\index.htm
+Content Type: text/html
+
+Uri: https://jaqston.com/products/
+File Name: C:\Downloaded Web Sites\jaqston.com\products\index.htm
+Content Type: text/html
+
+Uri: https://jaqston.com/upload/iblock/414/457647.png
+File Name: C:\Downloaded Web Sites\jaqston.com\upload\iblock\414\457647.png
+Content Type: image/png
+
+Uri: https://jaqston.com/upload/iblock/442/6743647364.png
+File Name: C:\Downloaded Web Sites\jaqston.com\upload\iblock\442\6743647364.png
+Content Type: image/png
+
+Uri: https://jaqston.com/upload/iblock/4a7/aak.png
+File Name: C:\Downloaded Web Sites\jaqston.com\upload\iblock\4a7\aak.png
+Content Type: image/png
+
+Uri: https://jaqston.com/upload/iblock/6c8/2345546.png
+File Name: C:\Downloaded Web Sites\jaqston.com\upload\iblock\6c8\2345546.png
+Content Type: image/png
+
+Uri: https://jaqston.com/upload/iblock/790/5454522.png
+File Name: C:\Downloaded Web Sites\jaqston.com\upload\iblock\790\5454522.png
+Content Type: image/png
+
+Uri: https://jaqston.com/upload/iblock/7e6/435345.png
+File Name: C:\Downloaded Web Sites\jaqston.com\upload\iblock\7e6\435345.png
+Content Type: image/png
+
+Uri: https://jaqston.com/upload/iblock/7f0/545454545.jpg
+File Name: C:\Downloaded Web Sites\jaqston.com\upload\iblock\7f0\545454545.jpg
+Content Type: image/jpeg
+
+Uri: https://jaqston.com/upload/iblock/85b/3434374873.png
+File Name: C:\Downloaded Web Sites\jaqston.com\upload\iblock\85b\3434374873.png
+Content Type: image/png
+
+Uri: https://jaqston.com/upload/iblock/889/235235.gif
+File Name: C:\Downloaded Web Sites\jaqston.com\upload\iblock\889\235235.gif
+Content Type: image/gif
+
+Uri: https://jaqston.com/upload/iblock/8df/34534534.png
+File Name: C:\Downloaded Web Sites\jaqston.com\upload\iblock\8df\34534534.png
+Content Type: image/png
+
+Uri: https://jaqston.com/upload/iblock/93b/COCOA_BUTTER.jpg
+File Name: C:\Downloaded Web Sites\jaqston.com\upload\iblock\93b\COCOA_BUTTER.jpg
+Content Type: image/jpeg
+
+Uri: https://jaqston.com/upload/iblock/9ab/123123.gif
+File Name: C:\Downloaded Web Sites\jaqston.com\upload\iblock\9ab\123123.gif
+Content Type: image/gif
+
+Uri: https://jaqston.com/upload/iblock/9d2/23423.png
+File Name: C:\Downloaded Web Sites\jaqston.com\upload\iblock\9d2\23423.png
+Content Type: image/png
+
+Uri: https://jaqston.com/upload/iblock/ae9/54747457.jpg
+File Name: C:\Downloaded Web Sites\jaqston.com\upload\iblock\ae9\54747457.jpg
+Content Type: image/jpeg
+
+Uri: https://jaqston.com/upload/iblock/b99/234234.jpg
+File Name: C:\Downloaded Web Sites\jaqston.com\upload\iblock\b99\234234.jpg
+Content Type: image/jpeg
+
+Uri: https://jaqston.com/upload/iblock/bec/434634.png
+File Name: C:\Downloaded Web Sites\jaqston.com\upload\iblock\bec\434634.png
+Content Type: image/png
+
+Uri: https://jaqston.com/upload/iblock/e5f/5685849589485.png
+File Name: C:\Downloaded Web Sites\jaqston.com\upload\iblock\e5f\5685849589485.png
+Content Type: image/png
+
+Uri: https://jaqston.com/upload/iblock/ef8/434342.jpg
+File Name: C:\Downloaded Web Sites\jaqston.com\upload\iblock\ef8\434342.jpg
+Content Type: image/jpeg
+
+Uri: https://mc.yandex.ru/watch/35962230
+File Name: C:\Downloaded Web Sites\jaqston.com\watch\35962230
+Content Type: image/gif
+
